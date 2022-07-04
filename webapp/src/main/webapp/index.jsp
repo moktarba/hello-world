@@ -3,11 +3,11 @@
     <h1>New user Register for DevOps Learning</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
-    <h3>Automatic CI/CD from image Dockerhub </h3> 
+    <h3>Automatic CI/CD from image Dockerhub </h3>
     <label for="Name"><b>Enter Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
-    
+
     <label for="mobile"><b>Enter mobile</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
@@ -34,6 +34,8 @@
    <h1> Thankyou, Happy Learning </h1>
    <h2>First code change</h2>
    <h2>Le projet de mouhamed et de safar</h2>
-   <h4> project test error</h4> 
-  
+   <h4> project test error</h4>
+   <h4>Nouvelle étape</h4>
+   <p>On a franchi l'étape de mise en place d'une pipeline CI/CD complèt avec l'utilisation de Ansible</p>
+
 </form>
